@@ -1,0 +1,6 @@
+{
+  "name": "Frictionless OTT Streaming",
+  "description": "A high-fidelity interactive prototype demonstrating a zero-friction content registration and subscription flow for streaming platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
